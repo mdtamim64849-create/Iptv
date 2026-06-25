@@ -4,17 +4,12 @@
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Turjo tv Sports",FIFA Live - Bangla 🇮🇳
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
-
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg" group-title="BANGLA",Somoy TV
-http://103.151.60.190:2025/play/a0dx/index.m3u8
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
 
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
@@ -127,43 +122,10 @@ http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Bangla",T Sports
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
 https://trs1.aynaott.com/tsports/index.m3u8
 
-
-#EXTINF:-1 tvg-name="Toffee" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FIFA WA01643963650",Toffee
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
 http://sweetcandy-bvs.pages.dev/channel3.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-
-
-#EXTINF:-1 tvg-id="ArenaSport1.rs@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1 (1080p)
-https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
-
-
