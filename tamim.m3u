@@ -87,6 +87,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 
+#EXTINF:-1 tvg-name="Ananda TV" group-title="Unknown",Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW
+
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",MAASRANGA HD
 http://tvsen5.aynascope.net/maasrangatv/index.m3u8
