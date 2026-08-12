@@ -79,6 +79,7 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="BANGLA",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 
@@ -149,6 +150,13 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-name="Batul the Great" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMOfC7NSiiuVI790ObTRdMxvxQxJKZ6txYs_yi2i8TyD49hKqiKe_B4Imw8apKnzx_4wYwLXrHaqTs8xHuFwasDJXtpwoYF_wIF9PaOwNPAzebYJNudCeSBFVLr_29AFty7aRMPu_GXn57d5ClKabsMZFDVwwWHE7EQhWnmuGaNBUvlaHArQNNarK14A/s1080/1000057901.png" group-title="Kids",Batul the Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-name="Gopal Bhar TV" group-title="Kids",Gopal Bhar TV
